@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/cw3dv/dev/rust/rgql/src'
+let g:netrw_dirhist_1='/home/cw3dv/dev/rust/rgql'
+let g:netrw_dirhist_0='/home/cw3dv/dev/rust'
+let g:netrw_dirhist_9='/home/cw3dv/dev'
+let g:netrw_dirhist_8='/home/cw3dv'
+let g:netrw_dirhist_7='/home'
+let g:netrw_dirhist_6='/'
+let g:netrw_dirhist_5='/mnt'
+let g:netrw_dirhist_4='/'
+let g:netrw_dirhist_3='/home'
