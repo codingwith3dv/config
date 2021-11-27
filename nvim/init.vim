@@ -1,3 +1,10 @@
+set tabstop=2
+set softtabstop=0
+set expandtab
+set shiftwidth=2
+set smarttab
+set wrap!
+
 call plug#begin('~/.config/nvim/autoload/plugged')
   Plug 'preservim/nerdtree'
   Plug 'tomasiser/vim-code-dark'
@@ -9,6 +16,7 @@ colorscheme codedark
 
 syntax enable
 filetype plugin indent on
+set updatetime=300
 
 nnoremap <leader>n :NERDTreeFocus<CR>
 nnoremap <C-n> :NERDTree<CR>
